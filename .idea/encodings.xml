@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinasoft/mapper/GenderMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinasoft/mapper/StudentMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinasoft/mapper/UserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinasoft/pojo/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/chinasoft/test/UserMapperTest.java" charset="GBK" />
+  </component>
+</project>
